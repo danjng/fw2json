@@ -1,0 +1,13 @@
+{
+  "name": "docker_csv2json",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Daniel Ng <daniel.ng@fda.hhs.gov>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
